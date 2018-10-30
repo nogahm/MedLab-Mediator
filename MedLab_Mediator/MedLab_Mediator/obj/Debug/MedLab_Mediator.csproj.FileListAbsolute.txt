@@ -1,0 +1,16 @@
+c:\users\nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\bin\Debug\MedLab_Mediator.exe.config
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\bin\Debug\MedLab_Mediator.exe
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\bin\Debug\MedLab_Mediator.pdb
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator.csprojResolveAssemblyReference.cache
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MainWindow.g.cs
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\App.g.cs
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator_MarkupCompile.cache
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator_MarkupCompile.lref
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MainWindow.baml
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator.g.resources
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator.Properties.Resources.resources
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator.csproj.GenerateResource.Cache
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator.exe
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\MedLab_Mediator.pdb
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\Results.g.cs
+C:\Users\Nogah\documents\visual studio 2015\Projects\MedLab_Mediator\MedLab_Mediator\obj\Debug\Results.baml

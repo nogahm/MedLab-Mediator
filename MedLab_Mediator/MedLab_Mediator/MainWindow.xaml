@@ -1,0 +1,25 @@
+﻿<Window x:Class="MedLab_Mediator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedLab_Mediator"
+        mc:Ignorable="d"
+        Title="MedLab Mediator" Height="694" Width="637">
+    <Grid>
+        <Label x:Name="knowledgeItems1_lbl" Content="Select KB1 from Knowledge Items:" HorizontalAlignment="Left" Height="27" Margin="10,19,0,0" VerticalAlignment="Top" Width="160"/>
+        <ComboBox x:Name="knowledgeItemsList1" HorizontalAlignment="Left" Height="29" Margin="10,51,0,0" VerticalAlignment="Top" Width="270" SelectionChanged="knowledgeItemsList1_SelectionChanged"/>
+        <Label x:Name="selectedKItem1_lbl" Content="Selected Knowldge Item:" HorizontalAlignment="Left" Height="27" Margin="10,100,0,0" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="selectedKItem1_txt" HorizontalAlignment="Left" Height="98" Margin="10,132,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="270"/>
+        <Label x:Name="data1_txt" Content="Selected Knowldge Data Items:" HorizontalAlignment="Left" Height="27" Margin="10,266,0,0" VerticalAlignment="Top" Width="199"/>
+        <ListBox x:Name="dataList1" HorizontalAlignment="Left" Height="198" Margin="10,309,0,0" VerticalAlignment="Top" Width="270"/>
+        <Label x:Name="knowledgeItems2_lbl" Content="Select KB2 from Knowledge Items:" HorizontalAlignment="Left" Height="27" Margin="349,19,0,0" VerticalAlignment="Top" Width="160"/>
+        <ComboBox x:Name="knowledgeItemsList2" HorizontalAlignment="Left" Height="29" Margin="349,51,0,0" VerticalAlignment="Top" Width="270" SelectionChanged="knowledgeItemsList2_SelectionChanged"/>
+        <Label x:Name="selectedKItem2_lbl" Content="Selected Knowldge Item:" HorizontalAlignment="Left" Height="27" Margin="349,100,0,0" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="selectedKItem2_txt" HorizontalAlignment="Left" Height="98" Margin="349,132,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="270"/>
+        <Label x:Name="data2_txt" Content="Selected Knowldge Data Items:" HorizontalAlignment="Left" Height="27" Margin="349,266,0,0" VerticalAlignment="Top" Width="199"/>
+        <ListBox x:Name="dataList2" HorizontalAlignment="Left" Height="198" Margin="349,309,0,0" VerticalAlignment="Top" Width="270"/>
+        <ComboBox x:Name="operator_cb" HorizontalAlignment="Left" Height="30" Margin="209,539,0,0" VerticalAlignment="Top" Width="184" SelectionChanged="operator_SelectionChanged"/>
+        <Button x:Name="calculate_btn" Content="Calculate" HorizontalAlignment="Left" Height="26" Margin="209,583,0,0" VerticalAlignment="Top" Width="184" IsEnabled="False" Click="calculate_btn_Click"/>
+    </Grid>
+</Window>
